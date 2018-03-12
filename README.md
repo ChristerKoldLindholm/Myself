@@ -1,2 +1,2 @@
 # Myself
-Personal background information for sharing.
+Personal background information for public sharing.
